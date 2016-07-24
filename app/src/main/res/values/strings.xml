@@ -1,5 +1,9 @@
 <resources>
     <string name="app_name">Forecast</string>
     <string name="action_settings">Settings</string>
+    <string name="action_refresh">Refresh</string>
     <string name="list_item_text">Hoy - Soleado - 33º/21º</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
